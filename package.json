@@ -10,7 +10,7 @@
     "webpack-dev-server": "^4.7.2"
   },
   "scripts": {
-    "build": "webpack --mode -development",
+    "build": "webpack --mode production",
     "start": "webpack serve --mode development --open"
   },
   "author": "",
